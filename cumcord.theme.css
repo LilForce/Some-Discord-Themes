@@ -1,0 +1,38 @@
+@import url('https://raw.githubusercontent.com/refact0r/midnight-discord/master/midnight.theme.css');
+@import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
+
+:root {
+  --accent-hue: 239;
+  --accent-saturation: 29%;
+  --accent-lightness: 64%;
+  --accent-text-color: #fff;
+  --avatar-radius: 33%;
+  --undefined: 0;
+  --message-radius: 15px;
+  --message-padding-top: 8px;
+  --message-padding-side: 12px;
+  --undefined: 0;
+  --media-radius: 19px;
+  --undefined: 0;
+  --card-radius: 8px;
+  --card-radius-big: 18px;
+  --popout-radius: 10px;
+  --popout-radius-big: 20px;
+  --rs-small-spacing: 2px;
+  --rs-medium-spacing: 2px;
+  --rs-large-spacing: 2px;
+  --rs-small-width: 2px;
+  --rs-medium-width: 2px;
+  --rs-large-width: 2px;
+  --rs-avatar-shape: 50%;
+  --rs-online-color: #43b581;
+  --rs-idle-color: #faa61a;
+  --rs-dnd-color: #f04747;
+  --rs-offline-color: #636b75;
+  --rs-streaming-color: #643da7;
+  --rs-phone-visible: none;
+}
+
+.wordmark-2u86JB.wordmarkWindows-2dq6rw:after {
+  content: "cumcord";
+}
