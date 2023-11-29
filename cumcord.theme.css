@@ -37,7 +37,7 @@ div[class^='wordmarkWindows'] > svg {
 	display: none;
 }
 div[class^='wordmarkWindows']::after {
-	content: '  cumcord';
+	content: '‎ ‎ ㅤㅤㅤㅤㅤㅤcumcord';
 	display: block;
 	position: relative;
 	width: 200px;
